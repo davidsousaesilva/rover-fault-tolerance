@@ -1,0 +1,19 @@
+# Compiled classes
+bin/
+*.class
+
+# Third-party libraries (JavaFX SDK and other .jar dependencies)
+libs/
+
+# Runtime logs (regenerated on each execution)
+*.log
+
+# Persistent logs from past test runs are intentionally kept:
+# logs_persistentes/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store

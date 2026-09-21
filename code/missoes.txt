@@ -1,0 +1,9 @@
+{"tipo":"MISSAO","id":1,"x1":-200,"y1":200,"x2":-170,"y2":230,"descricao":"Fotografia aérea de pontos de interesse","tempo":300,"intervalo":5}
+{"tipo":"MISSAO","id":2,"x1":-220,"y1":0,"x2":-180,"y2":30,"descricao":"Detecção de humidade do solo","tempo":1200,"intervalo":6}
+{"tipo":"MISSAO","id":3,"x1":-100,"y1":-150,"x2":-70,"y2":-120,"descricao":"Medição de temperatura do solo","tempo":1300,"intervalo":4}
+{"tipo":"MISSAO","id":4,"x1":0,"y1":100,"x2":30,"y2":130,"descricao":"Análise química de amostras de solo","tempo":400,"intervalo":5}
+{"tipo":"MISSAO","id":5,"x1":50,"y1":-50,"x2":90,"y2":-10,"descricao":"Medição do campo magnético","tempo":600,"intervalo":6}
+{"tipo":"MISSAO","id":6,"x1":100,"y1":150,"x2":140,"y2":180,"descricao":"Detecção de partículas de poeira","tempo":1200,"intervalo":5}
+{"tipo":"MISSAO","id":7,"x1":150,"y1":-200,"x2":180,"y2":-170,"descricao":"Análise atmosférica local","tempo":360,"intervalo":4}
+{"tipo":"MISSAO","id":8,"x1":-150,"y1":-100,"x2":-120,"y2":-70,"descricao":"Medição de radiação UV","tempo":710,"intervalo":5}
+{"tipo":"MISSAO","id":9,"x1":0,"y1":-200,"x2":30,"y2":-170,"descricao":"Fotografia em sequência","tempo":620,"intervalo":5}

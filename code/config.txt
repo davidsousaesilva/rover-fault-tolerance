@@ -1,0 +1,2 @@
+timeout_millis=8500
+max_tentativas=8

@@ -1,0 +1,70 @@
+Config:
+timeout_millis=6000
+max_tentativas=5
+
+NM -> S1: 1s delay, 15% packet loss
+Rover1 -> S2: 200ms delay, 15% packet loss
+Rover2 -> S3: 1.5s delay, 25% packet loss
+Rover3 -> S4: 3s delay, 40% packet loss
+
+#######################################
+nave_10.0.3.20:39371------------ Rover1                     
+===== Estatísticas do Log =====                     
+UPDATES:
+  Total recebidos: 36
+  Repetidos: 9
+  Updates únicos: 27
+  Último UPDATE: 27
+  Perdidos: 0 -> []
+  ACKs enviados (UPDATE): 36
+
+FILE_PARTS:
+  Total recebidos: 21
+  Repetidos: 2
+  FILE_PART únicos: 19
+  Último FILE_PART: 19
+  Perdidos: 1 -> [7]
+  ACKs enviados (FILE_PART): 21
+##########################################
+
+
+##########################################
+nave_10.0.0.20:51335----------------Rover2
+===== Estatísticas do Log =====
+UPDATES:
+  Total recebidos: 41
+  Repetidos: 12
+  Updates únicos: 29
+  Último UPDATE: 29
+  Perdidos: 0 -> []
+  ACKs enviados (UPDATE): 41
+
+FILE_PARTS:
+  Total recebidos: 15
+  Repetidos: 8
+  FILE_PART únicos: 7
+  Último FILE_PART: 6
+  Perdidos: 0 -> []
+  ACKs enviados (FILE_PART): 15
+###########################################
+
+
+###########################################
+nave_10.0.5.20:48874-----------------Rover3 
+===== Estatísticas do Log =====
+UPDATES:
+  Total recebidos: 34
+  Repetidos: 18
+  Updates únicos: 16
+  Último UPDATE: 16
+  Perdidos: 0 -> []
+  ACKs enviados (UPDATE): 34
+
+FILE_PARTS:
+  Total recebidos: 7
+  Repetidos: 3
+  FILE_PART únicos: 4
+  Último FILE_PART: 3
+  Perdidos: 0 -> []
+  ACKs enviados (FILE_PART): 7
+###########################################
